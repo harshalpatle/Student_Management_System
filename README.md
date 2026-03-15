@@ -53,4 +53,4 @@ Access http://localhost:8080 after starting server.
 - Docker deployment
 - Frontend framework (React/Vue)
 
-Built with ❤️ using BLACKBOXAI
+

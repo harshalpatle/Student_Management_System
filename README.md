@@ -26,6 +26,7 @@ mvn spring-boot:run
 - App runs on http://localhost:8080
 - Frontend served from /static/index.html
 - API: /api/students
+- For Backend use http://localhost:8080/h2-console/
 
 ## API Endpoints
 - `GET /api/students` - List all students

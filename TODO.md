@@ -5,8 +5,8 @@
 - [ ] Install GitHub CLI (gh) - installing via winget...
 - [x] Create feature branch blackboxai/push-project
 - [x] Commit TODO.md update
-- [ ] Push branch to origin
-- [ ] Open pull request to master
-- [ ] Verify repo on GitHub
+- [x] Push branch to origin - SUCCESS! Visit https://github.com/harshalpatle/Student-Management-System/pull/new/blackboxai/push-project to create PR
+- [ ] Open pull request to master (waiting for gh install)
+- [x] Verify repo on GitHub - https://github.com/harshalpatle/Student-Management-System/tree/blackboxai/push-project
 - [ ] Optional: Add .gitignore and README.md
 

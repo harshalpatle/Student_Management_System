@@ -23,10 +23,8 @@ cd backend/backend
 mvn clean package
 mvn spring-boot:run
 ```
-- App runs on http://localhost:8080
 - Frontend served from /static/index.html
 - API: /api/students
-- For Backend use http://localhost:8080/h2-console/
 
 ## API Endpoints
 - `GET /api/students` - List all students
@@ -44,9 +42,6 @@ mvn spring-boot:run
 ├── frontend/frontend/     # Duplicate frontend (optional)
 └── README.md
 ```
-
-## Testing
-Access http://localhost:8080 after starting server.
 
 ## Future Improvements
 - Add authentication
